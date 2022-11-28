@@ -7,11 +7,16 @@
 CRUD without Modal use Laravel, Livewire, Tailwinds
 
 1.- Crear base de datos.
+
 2.- Configurar db en el archivo .env ingresando los datos de acceso.
+> ```php
 >
 >DB_DATABASE=
+>
 >DB_USERNAME=
+>
 >DB_PASSWORD=
+
 
 3.- Ejecutar
 > ```php
@@ -22,7 +27,6 @@ CRUD without Modal use Laravel, Livewire, Tailwinds
 5.- Instalar módulos node
 > ```php
 > npm install
-
 
 ## Learning Laravel
 
